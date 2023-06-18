@@ -1,0 +1,37 @@
+
+body{
+    background-color:  #E8E8E8;
+}
+
+img{
+    border-radius: 2%;
+}
+
+
+.heading1{
+    color: #0d2e64;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 50px;
+}
+
+.subheading{
+    color: #0d2e64;
+}
+
+.newsheading{
+    color: #2861be;
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+hr.style-eight {
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+/* .science 
+.space 
+.env */

@@ -1,0 +1,76 @@
+
+.heading{
+    color: #0d2e64;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 50px;
+}
+
+.subheading{
+    color: #164aa0;
+}
+
+.heading1{
+    color: #0d2e64;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 50px;
+}
+
+.blogsegment{
+    font-family: 'Noto Serif Khojki', serif;
+    color: #2861be;
+}
+
+.blogsegment2{
+    font-family: 'Noto Serif Khojki', serif;
+    color: #71a0ec;
+}
+.tech{
+    background-color: #E8E8E8;
+    border-radius: 1%;
+}
+
+.lifestyle{
+    background-color: 	#505050;
+    border-radius: 1%;
+}
+
+.social{
+    background-color: #E8E8E8;
+    border-radius: 1%;
+}
+
+.product-device {
+    position: absolute;
+    right: 10%;
+    bottom: -25%;
+    width: 300px;
+    height: 540px;
+    transform: rotate(12deg);
+    opacity: 20%;
+}
+
+
+.product-device-2 {
+
+    top: -3%;
+    right: auto;
+    bottom: 0;
+    left: 0%;
+
+}
+
+
+@media (min-width: 768px){
+.d-md-block {
+    display: block!important;
+}
+}
+
+hr.style-eight {
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}

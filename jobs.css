@@ -1,0 +1,19 @@
+.heading1{
+    color: #0d2e64;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 50px;
+}
+
+.subheading{
+    color: #0d2e64;
+}
+
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+.heading2{
+    font-family: 'Noto Serif Khojki', serif;
+    color: #2861be;
+    
+}

@@ -1,0 +1,13 @@
+/* common for all the files */
+
+/*logo images*/
+.logo{
+    filter: brightness(0) invert(1);
+}
+
+
+/*images*/
+.icon{
+    filter: brightness(0) invert(1);
+
+}
